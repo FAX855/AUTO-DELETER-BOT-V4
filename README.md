@@ -32,6 +32,4 @@ python3 bot.py
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
-### Developer
-- [Vampire](https://t.me/KP51107)
 
